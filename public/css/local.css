@@ -1,0 +1,9 @@
+.header{background-color:#FF0000;border-bottom:1px solid #CC0000;color:#FFFFFF}
+.header a{color:#FFFFFF}
+
+.content .page-header{border-bottom:1px solid #D3D3D3;margin-top:20px;}
+
+.loader-container{text-align:center}
+
+.gif-container{padding:10px 0}
+.gif-container .gif-item{width:25%;padding:10px;text-align:center;}
